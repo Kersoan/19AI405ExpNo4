@@ -1,5 +1,5 @@
 <h1>Ex-No-04--Implement A* search algorithm for a Graph</h1> 
-<h3>Name: Kersoan P G</h3>
+<h3>Name: Kersoan P </h3>
 <h3>Register Number: 212221230050</h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
